@@ -7,3 +7,4 @@
 * [jsGallery](https://github.com/ledminh/jsGallery)
 * [jsCalculator](https://github.com/ledminh/jsCalculator)
 * [Dog Gallery](https://github.com/ledminh/DogGallery)
+* [Counting Game](https://github.com/ledminh/countingGameJS)
