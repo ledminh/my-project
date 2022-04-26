@@ -9,3 +9,4 @@
 * [Dog Gallery](https://github.com/ledminh/DogGallery)
 * [Counting Game](https://github.com/ledminh/countingGameJS)
 * [Dual Range Slidebar](https://github.com/ledminh/dualRangeSliderJS)
+* [jsBubbles](https://github.com/ledminh/jsBubble)
