@@ -11,3 +11,7 @@
 * [Dual Range Slidebar](https://github.com/ledminh/dualRangeSliderJS)
 * [jsBubbles](https://github.com/ledminh/jsBubble)
 * [TODOListJS](https://github.com/ledminh/ToDoListJS)
+
+## Webpack Projects
+* [Webpack Project Boilerplate](https://github.com/ledminh/webpack-project-boilerplate)
+
