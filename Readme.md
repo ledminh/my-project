@@ -15,3 +15,7 @@
 ## Webpack Projects
 * [Webpack Project Boilerplate](https://github.com/ledminh/webpack-project-boilerplate)
 * [Typing Fast: a typing game made in JS](https://github.com/ledminh/jsTypingGame)
+
+## React Projects
+* [React boilerplate with Webpack](https://github.com/ledminh/react-boilerplate-with-webpack)
+
