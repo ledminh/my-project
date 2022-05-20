@@ -18,4 +18,5 @@
 
 ## React Projects
 * [React boilerplate with Webpack](https://github.com/ledminh/react-boilerplate-with-webpack)
+* [App: Vocabulary Study](https://github.com/ledminh/vocabStudy)
 
