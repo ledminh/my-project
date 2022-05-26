@@ -3,7 +3,6 @@
 ***Links to all of my projects***
 
 ## Vanila Javascripts
-
 * [jsGallery](https://github.com/ledminh/jsGallery)
 * [jsCalculator](https://github.com/ledminh/jsCalculator)
 * [Dog Gallery](https://github.com/ledminh/DogGallery)
@@ -19,4 +18,8 @@
 ## React Projects
 * [React boilerplate with Webpack](https://github.com/ledminh/react-boilerplate-with-webpack)
 * [App: Vocabulary Study](https://github.com/ledminh/vocabStudy)
+
+## Gatsby Projects
+* [LEDMINH-DEV](https://github.com/ledminh/ledminh-dev)
+
 
