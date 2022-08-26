@@ -23,6 +23,6 @@
 * [LEDMINH-DEV](https://github.com/ledminh/ledminh-dev)
 
 ## Nextjs Projects
-* [A bar called Quesera](https://github.com/ledminh/a-bar-called-quesera)
+* [NayaHome](https://github.com/ledminh/nayahome)
 
 
